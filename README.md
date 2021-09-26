@@ -1,4 +1,4 @@
-# Data-Visualization-in-R
+# Data-Visualization
 Here is the showcase on some of the research figures I have created by using R, Excel and Adobe for some published projects. The Acknowledgements page in the report indicates I have created all the graphs for each project.
 
 1. Project: The Impact of COVID-19 on California Transportation Revenue
