@@ -1,5 +1,5 @@
 # Data-Visualization
-Here is the showcase on some of the research figures I have created by using R, Excel and Adobe for some published projects. The Acknowledgements page in the report indicates I have created all the graphs for each project.
+Here is the showcase on some of the research figures I have created by using R, Excel and Adobe for some published projects. The Acknowledgements page in the report indicates who created the reseach graphs.
 
 1. Project: The Impact of COVID-19 on California Transportation Revenue
 - Link: https://transweb.sjsu.edu/sites/default/files/2018-Agrawal-COVID-19-California-Transportation-Revenues.pdf
